@@ -1,0 +1,13 @@
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Choose adventure\Choice Adventure\Choice Adventure\bin\Debug\netcoreapp3.1\Choice Adventure.exe
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Choose adventure\Choice Adventure\Choice Adventure\bin\Debug\netcoreapp3.1\Choice Adventure.deps.json
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Choose adventure\Choice Adventure\Choice Adventure\bin\Debug\netcoreapp3.1\Choice Adventure.runtimeconfig.json
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Choose adventure\Choice Adventure\Choice Adventure\bin\Debug\netcoreapp3.1\Choice Adventure.runtimeconfig.dev.json
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Choose adventure\Choice Adventure\Choice Adventure\bin\Debug\netcoreapp3.1\Choice Adventure.dll
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Choose adventure\Choice Adventure\Choice Adventure\bin\Debug\netcoreapp3.1\Choice Adventure.pdb
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Choose adventure\Choice Adventure\Choice Adventure\obj\Debug\netcoreapp3.1\Choice Adventure.csprojAssemblyReference.cache
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Choose adventure\Choice Adventure\Choice Adventure\obj\Debug\netcoreapp3.1\Choice Adventure.AssemblyInfoInputs.cache
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Choose adventure\Choice Adventure\Choice Adventure\obj\Debug\netcoreapp3.1\Choice Adventure.AssemblyInfo.cs
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Choose adventure\Choice Adventure\Choice Adventure\obj\Debug\netcoreapp3.1\Choice Adventure.csproj.CoreCompileInputs.cache
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Choose adventure\Choice Adventure\Choice Adventure\obj\Debug\netcoreapp3.1\Choice Adventure.dll
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Choose adventure\Choice Adventure\Choice Adventure\obj\Debug\netcoreapp3.1\Choice Adventure.pdb
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Choose adventure\Choice Adventure\Choice Adventure\obj\Debug\netcoreapp3.1\Choice Adventure.genruntimeconfig.cache
